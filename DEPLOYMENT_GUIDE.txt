@@ -1,0 +1,7 @@
+1. Create GitHub account
+2. Create repository laghubhojan.github.io
+3. Upload all files
+4. Enable GitHub Pages
+5. Add custom domain www.laghubhojan.com
+6. Add GoDaddy CNAME: www -> laghubhojan.github.io
+7. Replace WhatsApp number in script.js
