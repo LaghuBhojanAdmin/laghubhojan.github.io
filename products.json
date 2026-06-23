@@ -1,230 +1,59 @@
 [
-  {
-    "name": "Coriander Powder",
-    "price": "Contact for Price"
-  },
-  {
-    "name": "Millet Mix",
-    "price": "Contact for Price"
-  },
-  {
-    "name": "Sambar Podi",
-    "price": "Contact for Price"
-  },
-  {
-    "name": "Sombu Powder",
-    "price": "Contact for Price"
-  },
-  {
-    "name": "Health Mix",
-    "price": "Contact for Price"
-  },
-  {
-    "name": "Chilly Powder",
-    "price": "Contact for Price"
-  },
-  {
-    "name": "Morkuzhambu Podi",
-    "price": "Contact for Price"
-  },
-  {
-    "name": "Vathakuzhambu Podi",
-    "price": "Contact for Price"
-  },
-  {
-    "name": "Puliyogarai Podi",
-    "price": "Contact for Price"
-  },
-  {
-    "name": "Thakaali Urugai",
-    "price": "Contact for Price"
-  },
-  {
-    "name": "Rasam Podi",
-    "price": "Contact for Price"
-  },
-  {
-    "name": "Paruppu Podi",
-    "price": "Contact for Price"
-  },
-  {
-    "name": "Idly Milagai Podi",
-    "price": "Contact for Price"
-  },
-  {
-    "name": "Curry Leaf Idly Podi",
-    "price": "Contact for Price"
-  },
-  {
-    "name": "Moringa Powder",
-    "price": "Contact for Price"
-  },
-  {
-    "name": "Milagu Sada Podi",
-    "price": "Contact for Price"
-  },
-  {
-    "name": "Ellu Sada Podi",
-    "price": "Contact for Price"
-  },
-  {
-    "name": "Instant Rasam Podi",
-    "price": "Contact for Price"
-  },
-  {
-    "name": "Omapodi",
-    "price": "Contact for Price"
-  },
-  {
-    "name": "Mixture",
-    "price": "Contact for Price"
-  },
-  {
-    "name": "Aval Mixture",
-    "price": "Contact for Price"
-  },
-  {
-    "name": "Karaboondhi",
-    "price": "Contact for Price"
-  },
-  {
-    "name": "Mullu Muruku",
-    "price": "Contact for Price"
-  },
-  {
-    "name": "Thenkozhal Muruku",
-    "price": "Contact for Price"
-  },
-  {
-    "name": "Ribbon Pakoda",
-    "price": "Contact for Price"
-  },
-  {
-    "name": "Thattai",
-    "price": "Contact for Price"
-  },
-  {
-    "name": "Cornflakes Mixture",
-    "price": "Contact for Price"
-  },
-  {
-    "name": "Bombay Mixture",
-    "price": "Contact for Price"
-  },
-  {
-    "name": "Butter Muruku",
-    "price": "Contact for Price"
-  },
-  {
-    "name": "Mini Muruku",
-    "price": "Contact for Price"
-  },
-  {
-    "name": "Kara Sev",
-    "price": "Contact for Price"
-  },
-  {
-    "name": "Special Mixture (Nuts)",
-    "price": "Contact for Price"
-  },
-  {
-    "name": "Kai Muruku",
-    "price": "Contact for Price"
-  },
-  {
-    "name": "Nenthram Chips (Refined oil)",
-    "price": "Contact for Price"
-  },
-  {
-    "name": "Nenthram Chips (Coconut oil)",
-    "price": "Contact for Price"
-  },
-  {
-    "name": "Peanut Barfi",
-    "price": "Contact for Price"
-  },
-  {
-    "name": "Gulab Jamun",
-    "price": "Contact for Price"
-  },
-  {
-    "name": "Kadalai Urundai",
-    "price": "Contact for Price"
-  },
-  {
-    "name": "Appam",
-    "price": "Contact for Price"
-  },
-  {
-    "name": "Boondi Laddu",
-    "price": "Contact for Price"
-  },
-  {
-    "name": "Jangri",
-    "price": "Contact for Price"
-  },
-  {
-    "name": "Pottukadalai Laddu",
-    "price": "Contact for Price"
-  },
-  {
-    "name": "Rava Laddu",
-    "price": "Contact for Price"
-  },
-  {
-    "name": "Adhiresam",
-    "price": "Contact for Price"
-  },
-  {
-    "name": "Mothi Laddu",
-    "price": "Contact for Price"
-  },
-  {
-    "name": "Mini Badhusha",
-    "price": "Contact for Price"
-  },
-  {
-    "name": "Paasiparupu Laddu",
-    "price": "Contact for Price"
-  },
-  {
-    "name": "Coconut Barfi",
-    "price": "Contact for Price"
-  },
-  {
-    "name": "Bombay Halwa",
-    "price": "Contact for Price"
-  },
-  {
-    "name": "Kesar Peda",
-    "price": "Contact for Price"
-  },
-  {
-    "name": "Mysurpa (Ghee)",
-    "price": "Contact for Price"
-  },
-  {
-    "name": "Theratti Pal",
-    "price": "Contact for Price"
-  },
-  {
-    "name": "Wheat Halwa",
-    "price": "Contact for Price"
-  },
-  {
-    "name": "Protein Barfi",
-    "price": "Contact for Price"
-  },
-  {
-    "name": "Kaju Katli",
-    "price": "Contact for Price"
-  },
-  {
-    "name": "Badam Halwa",
-    "price": "Contact for Price"
-  },
-  {
-    "name": "Cashew Roll",
-    "price": "Contact for Price"
-  }
+  {"name":"Omapodi","category":"Savories","price100":"₹52","price1kg":"₹520"},
+  {"name":"Mixture","category":"Savories","price100":"₹56","price1kg":"₹560"},
+  {"name":"Aval Mixture","category":"Savories","price100":"₹56","price1kg":"₹560"},
+  {"name":"Karaboondhi","category":"Savories","price100":"₹56","price1kg":"₹560"},
+  {"name":"Mullu Muruku","category":"Savories","price100":"₹60","price1kg":"₹600"},
+  {"name":"Thenkozhal Muruku","category":"Savories","price100":"₹60","price1kg":"₹600"},
+  {"name":"Ribbon Pakoda","category":"Savories","price100":"₹60","price1kg":"₹600"},
+  {"name":"Thattai","category":"Savories","price100":"₹60","price1kg":"₹600"},
+  {"name":"Cornflakes Mixture","category":"Savories","price100":"₹60","price1kg":"₹600"},
+  {"name":"Bombay Mixture","category":"Savories","price100":"₹60","price1kg":"₹600"},
+  {"name":"Butter Muruku","category":"Savories","price100":"₹65","price1kg":"₹650"},
+  {"name":"Mini Muruku","category":"Savories","price100":"₹65","price1kg":"₹650"},
+  {"name":"Special Mixture (Nuts)","category":"Savories","price100":"₹75","price1kg":"₹750"},
+  {"name":"Kai Muruku","category":"Savories","price100":"₹80","price1kg":"₹800"},
+
+  {"name":"Peanut Barfi","category":"Sweets","price100":"₹55","price1kg":"₹550"},
+  {"name":"Gulab Jamun","category":"Sweets","price100":"₹55","price1kg":"₹550"},
+  {"name":"Kadalai Urundai","category":"Sweets","price100":"₹55","price1kg":"₹550"},
+  {"name":"Appam","category":"Sweets","price100":"₹55","price1kg":"₹550"},
+  {"name":"Boondi Laddu","category":"Sweets","price100":"₹65","price1kg":"₹650"},
+  {"name":"Jangri","category":"Sweets","price100":"₹65","price1kg":"₹650"},
+  {"name":"Rava Laddu","category":"Sweets","price100":"₹65","price1kg":"₹650"},
+  {"name":"Adhirasam","category":"Sweets","price100":"₹65","price1kg":"₹650"},
+  {"name":"Mothi Laddu","category":"Sweets","price100":"₹65","price1kg":"₹650"},
+  {"name":"Mini Badhusha","category":"Sweets","price100":"₹65","price1kg":"₹650"},
+  {"name":"Paasiparuppu Laddu","category":"Sweets","price100":"₹65","price1kg":"₹650"},
+  {"name":"Coconut Barfi","category":"Sweets","price100":"₹80","price1kg":"₹800"},
+  {"name":"Bombay Halwa","category":"Sweets","price100":"₹86","price1kg":"₹860"},
+  {"name":"Kesar Peda","category":"Sweets","price100":"₹86","price1kg":"₹860"},
+  {"name":"Mysurpa (Ghee)","category":"Sweets","price100":"₹86","price1kg":"₹860"},
+  {"name":"Theratti Pal","category":"Sweets","price100":"₹86","price1kg":"₹860"},
+  {"name":"Wheat Halwa","category":"Sweets","price100":"₹86","price1kg":"₹860"},
+  {"name":"Protein Barfi","category":"Sweets","price100":"₹95","price1kg":"₹950"},
+  {"name":"Kaju Katli","category":"Sweets","price100":"₹145","price1kg":"₹1450"},
+  {"name":"Badam Halwa","category":"Sweets","price100":"₹155","price1kg":"₹1550"},
+  {"name":"Cashew Roll","category":"Sweets","price100":"₹180","price1kg":"₹1800"},
+
+  {"name":"Paruppu Podi","category":"Powders","price100":"₹46","price1kg":"₹460"},
+  {"name":"Idly Milagai Podi","category":"Powders","price100":"₹46","price1kg":"₹460"},
+  {"name":"Curry Leaf Sadam Podi","category":"Powders","price100":"₹46","price1kg":"₹460"},
+  {"name":"Milagu Sadam Podi","category":"Powders","price100":"₹46","price1kg":"₹460"},
+  {"name":"Ellu Sadam Podi","category":"Powders","price100":"₹46","price1kg":"₹460"},
+  {"name":"Kollu Sadam Podi","category":"Powders","price100":"₹46","price1kg":"₹460"},
+  {"name":"Instant Rasam Podi","category":"Powders","price100":"₹56","price1kg":"₹560"},
+  {"name":"Morkuzhambu Podi","category":"Powders","price100":"₹56","price1kg":"₹560"},
+  {"name":"Vathakuzhambu Podi","category":"Powders","price100":"₹56","price1kg":"₹560"},
+  {"name":"Puliyogarai Podi","category":"Powders","price100":"₹70","price1kg":"₹700"},
+  {"name":"Coriander Powder","category":"Powders","price100":"₹45","price1kg":"₹450"},
+  {"name":"Sambar Podi","category":"Powders","price100":"₹60","price1kg":"₹600"},
+  {"name":"Sombu Powder","category":"Powders","price100":"₹60","price1kg":"₹600"},
+  {"name":"Chilly Powder","category":"Powders","price100":"₹70","price1kg":"₹700"},
+  {"name":"Moringa Powder","category":"Powders","price100":"₹60","price1kg":"₹600"},
+
+  {"name":"Millet Mix","category":"Health Mix","price100":"₹52","price1kg":"₹520"},
+  {"name":"Health Mix","category":"Health Mix","price100":"₹65","price1kg":"₹650"},
+  {"name":"Thakaali Urugai","category":"Pickles","price100":"₹56","price1kg":"₹560"},
+  {"name":"Mango Urugai","category":"Pickles","price100":"₹56","price1kg":"₹560"}
 ]
