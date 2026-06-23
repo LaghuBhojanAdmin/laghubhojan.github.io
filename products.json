@@ -55,8 +55,8 @@
   {"name":"Millet Mix","category":"Health Mix","price100":"₹52","price1kg":"₹520"},
   {"name":"Health Mix","category":"Health Mix","price100":"₹65","price1kg":"₹650"},
   {"name":"Thakkali Urugai","category":"Pickles","price100":"₹56","price1kg":"₹560","image":"images/Thakkali Urugai.png"},
-  {"name":"Mango Pickle","category":"Pickles","price100":"₹56","price1kg":"₹560","image":"images/Mango Pickle.png"}
-  {"name":"Nellikai Pickle","category":"Pickles","price100":"₹56","price1kg":"₹560","image":"images/Nellikai Pickle.png"}
-  {"name":"Suiyyam","category":"Pickles","price100":"₹56","price1kg":"₹560","image":"images/Suiyyam.png"}
-  {"name":"Gongura","category":"Pickles","price100":"₹56","price1kg":"₹560","image":"images/Gongura.png"}
+  {"name":"Mango Pickle","category":"Pickles","price100":"₹56","price1kg":"₹560","image":"images/Mango Pickle.png"},
+  {"name":"Nellikai Pickle","category":"Pickles","price100":"₹56","price1kg":"₹560","image":"images/Nellikai Pickle.png"},
+  {"name":"Suiyyam","category":"Pickles","price100":"₹56","price1kg":"₹560","image":"images/Suiyyam.png"},
+  {"name":"Gongura","category":"Pickles","price100":"₹56","price1kg":"₹560","image":"images/Gongura.png"},
 ]
