@@ -1,3 +1,4 @@
+console.log("Script loaded");
 const whatsappNumber = "919940547144";
 
 async function loadProducts() {
