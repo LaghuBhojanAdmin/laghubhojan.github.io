@@ -23,14 +23,14 @@ const products = await response.json();
                     `Hello Laghu Bhojan,%0A%0A` +
                     `I would like to order:%0A` +
                     `${product.name}%0A` +
-                    `100g: ₹${product.price100}%0A` +
-                    `1kg: ₹${product.price1kg}`;
+                    `100g: ₹{product.price100}%0A` +
+                    `1kg: ₹{product.price1kg}`;
 
                 card.innerHTML = `
-                    <h3>${product.name}</h3>
-                    <p><strong>Category:</strong> ${product.category}</p>
-                    <p><strong>100g:</strong> ₹${product.price100}</p>
-                    <p><strong>1kg:</strong> ₹${product.price1kg}</p>
+                    <h3>₹{product.name}</h3>
+                    <p><strong>Category:</strong> ₹{product.category}</p>
+                    <p><strong>100g:</strong> ₹{product.price100}</p>
+                    <p><strong>1kg:</strong> ₹{product.price1kg}</p>
                     <a class="btn"
                        href="https://wa.me/${whatsappNumber}?text=${message}"
                        target="_blank">
