@@ -28,10 +28,12 @@ async function loadProducts() {
                         `100g: ${product.price100}%0A` +
                         `1kg: ${product.price1kg}`;
 
-                  card.innerHTML = `
-    <img src="${product.image || 'laghubhojan.png'}" 
-         alt="${product.name}" 
-         class="product-image">
+                 const imageHtml = product.image
+    ? `<img src="${product.image}" alt="${product.name}" class="product-image">`
+    : `<div class="product-placeholder">LB</div>`;
+
+card.innerHTML = `
+    ${imageHtml}
 
     <h3>${product.name}</h3>
 
@@ -47,7 +49,6 @@ async function loadProducts() {
        Order on WhatsApp
     </a>
 `;
-
                     grid.appendChild(card);
                 });
         }
